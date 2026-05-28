@@ -1,7 +1,7 @@
 body {
     background-color: #e3f2fd; 
     /* Якщо буде картинка, просто розкоментуйте рядок нижче */
-    /* background-image: url('background.jpg'); */
+    background-image:url(fon.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
